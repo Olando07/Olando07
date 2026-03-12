@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love many things from food to cars to games to sports and much more. Dogs are my favourite pets, specifically German Shepherds.  I would like to expand my knowledge and skills both in and beyond software development into other IT areas.
+My Name is Olando; I am a software/full-stack web developer. I love many things from food to cars to games to sports and much more. Dogs are my favourite pets, specifically the German Shepherd breed. I would like to expand my knowledge and skills both in and beyond software development into other IT areas.
 
 
 ## 🌐 Socials:
