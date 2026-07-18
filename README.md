@@ -3,7 +3,7 @@ My Name is Olando; I am a software/full-stack web developer. I love many things 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olando-mcdonald-9bb708345/)([https://linkedin.com/in/Olando McDonald]) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olando-mcdonald-9bb708345/) www.linkedin.com/in/olando-mcdonald-9bb708345
  
 
 # 💻 Tech Stack:
